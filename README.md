@@ -11,7 +11,7 @@ Numerical features were selected, and the data was analyzed to see if it fit the
  
 - ***Statistical Methods***: For all features, test statistics values ​​were found and hypothesis tests were performed and interpreted.
     - ***Jarque-Bera***
-    - ***Kolmogorov-Smirnov***
+    - ***Kolmogorov-Smirnov*** 
 
 
 ### **Correlation**: 
